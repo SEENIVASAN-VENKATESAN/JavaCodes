@@ -16,6 +16,6 @@ public class TreeSetConcept {
         System.out.println(ts.floor(3));
         System.out.println(ts.ceiling(10));
         ts.clear();
-        System.out.println(ts.isEmpty());
+      
     }
 }
